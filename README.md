@@ -1,6 +1,6 @@
 # Hacksmiths Code of Conduct
 
-Last updated 5 January 2017
+Last updated 14 January 2017
 
 We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the Hacksmiths. 
 
@@ -33,7 +33,7 @@ We expect people to follow these rules at all event venues, at social events, an
 
 ## Goldsmiths SU Safe Space Policy
 
-As a member of Goldsmiths Students’ Union, we also enforce the SU’s Safe Space Policy. You can read the whole policy here, but the best summary is contained here:
+As a member of Goldsmiths Students’ Union, we also enforce the SU’s Safe Space Policy. You can read the whole policy [here](https://www.goldsmithssu.org/pageassets/yourunion/governance/policies/Safe-Space-Policy.pdf), but the best summary is contained here:
 
 > A safe space policy is all about creating an open and welcoming environment within our Union so that all our members feel able to participate
 
