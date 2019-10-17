@@ -1,13 +1,13 @@
 # Hacksmiths Code of Conduct
 
-Last updated 25 July 2017
+Last updated 17/10/2019
 
-We believe that everyone has the right to be in a safe and welcoming environment when attending events run, or supported, by the Hacksmiths. 
+We believe that everyone has the right to be in a safe and welcoming environment when attending events run or supported by Hacksmiths. 
 
 More than just a society, we are a community. Being part of this community means: 
 
 * Committing to helping each other
-* Listening to others views
+* Listening to others' views
 * Setting an example
 * Treating everyone equally
 * Respecting your environment and the people around you
@@ -38,8 +38,8 @@ As a member of Goldsmiths Students’ Union, we also enforce the SU’s Safe Spa
 > A safe space policy is all about creating an open and welcoming environment within our Union so that all our members feel able to participate
 
 ## Contacts
-* Kevin Lewis, President. klewi014@gold.ac.uk
-* Isabella Maund, Diversity & Inclusion Officer. imaun001@gold.ac.uk
+* Markela Zeneli, President. mzene001@gold.ac.uk
+* Katie Whittington, Secretary. kwhit006@gold.ac.uk
 
 Hacksmiths reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact Hacksmiths by e-mail at hacksmiths@gold.ac.uk.
 
