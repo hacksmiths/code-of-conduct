@@ -1,6 +1,6 @@
 # Hacksmiths Code of Conduct
 
-Last updated 17/10/2019
+Last updated 21/09/2020
 
 We believe that everyone has the right to be in a safe and welcoming environment when attending events run or supported by Hacksmiths. 
 
