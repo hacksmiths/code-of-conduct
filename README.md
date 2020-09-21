@@ -38,8 +38,9 @@ As a member of Goldsmiths Students’ Union, we also enforce the SU’s Safe Spa
 > A safe space policy is all about creating an open and welcoming environment within our Union so that all our members feel able to participate
 
 ## Contacts
-* Markela Zeneli, President. mzene001@gold.ac.uk
-* Katie Whittington, Secretary. kwhit006@gold.ac.uk
+* Georgina Hodges, President. ghodg001@gold.ac.uk
+* Benjamin Cookson, Secretary. bcook002@gold.ac.uk
+* Jannat Faisal, Treasurer. jfais001@gold.ac.uk
 
 Hacksmiths reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact Hacksmiths by e-mail at hacksmiths@gold.ac.uk.
 
